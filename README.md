@@ -1,3 +1,5 @@
+"basic ToDo list API with FastAPI and online MONGODB"
+
 Descargar repositorio
 Crear VENV
 instalar requirements.txt
