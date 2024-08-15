@@ -7,4 +7,5 @@ def serializer(todo) -> dict:
     }
 
 def list_serial(todos) -> list:
-    return(serializer(todo) for todo in todos) 
+    return(serializer(todo) for todo in todos)
+    
